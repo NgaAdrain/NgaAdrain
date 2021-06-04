@@ -16,4 +16,4 @@ Using Framework : Tensorflow with Keras, Pytorch
 
 Contact : wghjk2133@pusan.ac.kr
 
-site(?) : ngaadrain.github.io
+site(?) : https://ngaadrain.github.io
