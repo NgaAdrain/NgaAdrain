@@ -10,7 +10,7 @@ Major : Computer Science
 
 Main Language: C++, Python
 
-Interest : Transportation Information System(Now Working), AI, ML, DL
+Interest : Transportation Information System(Now Working), OpenLayers, AI, ML, DL
 
 Using Framework : Tensorflow with Keras, Pytorch(for AI, ~2021.06/27)
 
