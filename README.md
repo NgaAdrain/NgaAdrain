@@ -2,19 +2,21 @@
 
 Name: Jeong H.S
 
-Status: C++ Builder Programmer
+Status: C++ Builder Windows Client / C Server Programmer On Working
 
 Education: Pusan Nat'L Univ Bachelor of Engineering
 
 Major : Computer Science
 
-Main Language: C++, Python
+Main Language: C++
 
-Interest : Transportation Information System(Now Working), OpenLayers, AI, ML, DL
+Interest : Traffic Signal System(Now Working),
 
-Using Framework : Tensorflow with Keras, Pytorch(for AI, ~2021.06/27)
+    Transportation Information System, OpenLayers, AI, ML, DL
 
-Embarcadero RAD Studio(2021.06.28~) with C++ Builder
+Using : Embarcadero RAD Studio(2021.06.28~) with C++ Builder
+
+    Tensorflow with Keras, Pytorch(for AI, ~2021.06/27)
 
 Contact : wghjk2133@naver.com
 
