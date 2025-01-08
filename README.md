@@ -2,7 +2,7 @@
 
 Name: Jeong H.S
 
-Status: C++ Builder Windows Client / C Server Programmer On Working
+Status: C++ Builder Windows Client(Main) / C Server(Support) Programmer On Working
 
 Education: Pusan Nat'L Univ Bachelor of Engineering
 
