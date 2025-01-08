@@ -10,9 +10,8 @@ Major : Computer Science
 
 Main Language: C++
 
-Interest : Traffic Signal System(Now Working),
-
-  Transportation Information System, OpenLayers, AI, ML, DL
+Interest : Intelligent Transport Systems(Traffic Signal System), OpenLayers, 
+  AI, ML, DL
 
 Using : Embarcadero RAD Studio(2021.06.28~) with C++ Builder
 
@@ -21,3 +20,5 @@ Using : Embarcadero RAD Studio(2021.06.28~) with C++ Builder
 Contact : wghjk2133@naver.com
 
 site(?) : https://ngaadrain.github.io
+
+<b>VS CODE IS GOD!</b>
