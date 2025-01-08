@@ -12,11 +12,11 @@ Main Language: C++
 
 Interest : Traffic Signal System(Now Working),
 
-    Transportation Information System, OpenLayers, AI, ML, DL
+  Transportation Information System, OpenLayers, AI, ML, DL
 
 Using : Embarcadero RAD Studio(2021.06.28~) with C++ Builder
 
-    Tensorflow with Keras, Pytorch(for AI, ~2021.06/27)
+  Tensorflow with Keras, Pytorch(for AI, ~2021.06/27)
 
 Contact : wghjk2133@naver.com
 
